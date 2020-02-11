@@ -1,5 +1,5 @@
 ---
-title: This is a Knowledge Template Header
+title: This is a Experiment Template Header
 authors:
 - sally_smarts
 - wesley_wisdom
