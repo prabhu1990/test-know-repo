@@ -1,7 +1,7 @@
 ---
 title: This is a Experiment Template Header
 authors:
-- sally_smarts
+- prabhua
 - wesley_wisdom
 tags:
 - knowledge
